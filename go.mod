@@ -7,4 +7,5 @@ require (
 	github.com/elastic/go-elasticsearch/v8 v8.4.0 // indirect
 	github.com/go-chi/chi v1.5.4 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
+	github.com/tinrab/retry v1.0.0 // indirect
 )
